@@ -1,1 +1,1 @@
-My personal Webpage to GitHub proyect, [view here](https://juaito.github.io/)
+My personal Webpage to GitHub project, [view here](https://juaito.github.io/)
